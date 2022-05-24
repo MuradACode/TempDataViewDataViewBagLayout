@@ -1,5 +1,11 @@
 ﻿@model List<Card>;
 
+@{ 
+    var number = ViewData["Number"];
+}
+
+<h1>ViewData number is "@number"</h1>
+
 @for (int i = 0; i < Model.Count; i++)
 {
     <h1>@Model[i].Title</h1>

@@ -30,7 +30,6 @@ C:\Users\murad\source\repos\TempDataViewDataViewBagLayout\TempDataViewDataViewBa
 C:\Users\murad\source\repos\TempDataViewDataViewBagLayout\TempDataViewDataViewBagLayout\obj\Debug\netcoreapp3.1\TempDataViewDataViewBagLayout.pdb
 C:\Users\murad\source\repos\TempDataViewDataViewBagLayout\TempDataViewDataViewBagLayout\obj\Debug\netcoreapp3.1\TempDataViewDataViewBagLayout.genruntimeconfig.cache
 C:\Users\murad\source\repos\TempDataViewDataViewBagLayout\TempDataViewDataViewBagLayout\obj\Debug\netcoreapp3.1\TempDataViewDataViewBagLayout.csproj.CopyComplete
-C:\Users\murad\source\repos\TempDataViewDataViewBagLayout\TempDataViewDataViewBagLayout\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
 C:\Users\murad\source\repos\TempDataViewDataViewBagLayout\TempDataViewDataViewBagLayout\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\murad\source\repos\TempDataViewDataViewBagLayout\TempDataViewDataViewBagLayout\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\murad\source\repos\TempDataViewDataViewBagLayout\TempDataViewDataViewBagLayout\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs

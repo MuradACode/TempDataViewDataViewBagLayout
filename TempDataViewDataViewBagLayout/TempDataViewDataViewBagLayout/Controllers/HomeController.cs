@@ -44,6 +44,10 @@ namespace TempDataViewDataViewBagLayout
         public List<Card> Cards { get; set; }
         public IActionResult Index()
         {
+            int number = 24;
+
+            ViewData["Number"] = number;
+
             return View(Cards);
         }
     }
